@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/root/my-applications/bin'
+let g:netrw_dirhist_2='/mnt/dat/xp/git/3bs/routes/shop/aid'
+let g:netrw_dirhist_3='/mnt/dat/xp/git/3bs/routes/shop/aid/son'
+let g:netrw_dirhist_4='/mnt/dat/xp/git/3bs/routes/shop/aid'
